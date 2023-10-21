@@ -2,7 +2,7 @@
 
 namespace My\Plugin;
 
-class HelperPlugin {
+class Plugin {
 
     public function __construct() {
         // Hook into the WordPress initialization action

@@ -11,4 +11,4 @@
 require_once __DIR__ . '/vendor/autoload.php';
 
 // Init
-$helper = new My\Plugin\HelperPlugin();
+$helper = new My\Plugin\Plugin();
