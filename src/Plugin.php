@@ -1,6 +1,7 @@
 <?php
 
 namespace My\Plugin;
+use My\Plugin\AdminMenu;
 
 class Plugin {
 
